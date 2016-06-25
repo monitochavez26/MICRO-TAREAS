@@ -1,0 +1,5 @@
+tarea RDFa: llevar la informacion de la 1ra y 3ra imagen a un archivo.html y comprobar el resultado. Escribir una pequeña conclusion:
+
+Conclusion
+
+el archivo html sin rdfa y el archivo html con rdfa, ambos presentan una estructura diferente de datos, sin embargo al probar estos archivos ambos presenta la misma informacion. ya que como se menciono en la exposicion esto permite busquedas mas inteligentes sin que el usuario final note este codigo.
